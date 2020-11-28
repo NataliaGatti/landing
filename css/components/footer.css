@@ -1,0 +1,20 @@
+.footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 60px;
+}
+
+.footer a {
+  color:  #1EDD88;
+  font-size: 30px;
+  justify-content: space-between;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.rrss i {
+  text-align: center;
+  width: 1.25em;
+}
